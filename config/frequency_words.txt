@@ -4,14 +4,11 @@ deepmind
 chatgpt
 openai
 sora
-@5
 
 !gai
 人工智能
 AI
 !广告
 !培训
-@5
 
 agent
-@5
