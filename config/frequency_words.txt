@@ -4,17 +4,15 @@ deepmind
 chatgpt
 openai
 sora
-@10
 
 !gai
+!air
 人工智能
 AI
 !广告
 !培训
-@10
 
 agent
-@10
 
 金融风控
 邦盛科技
